@@ -17,6 +17,7 @@ struct ContentView: View {
                     Color.cyan
                 }
                 
+                
                 Text("Your content")
                     .foregroundColor(.secondary)
                     .padding(50)
